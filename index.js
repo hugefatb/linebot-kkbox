@@ -2,9 +2,9 @@ var linebot = require('linebot');
 var express = require('express');
 var http = require("https");
 var bot = linebot({
-    channelId: 'channel Id',
-    channelSecret: 'channel Secret',
-    channelAccessToken: 'channel Access Token'
+    channelId: '2006517291',
+    channelSecret: '9527d16df342dbb07d8e1a436a621cbc',
+    channelAccessToken: 'y6bKzS71LGkL136ExKAbNqA5ZtPyYi6HY8DDyxTskJvIHl0jtFhs+F0Pus9Juz3fy2NZB71QuXWpJ+8Vu6D6sTFNDvTqYqbggq6Y5b2+NXM3gdB04t89/1O/w1cDnyilFU='
 });
 
 const app = express();
