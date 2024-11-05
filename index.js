@@ -51,7 +51,7 @@ function kkbox(event) {
         "path": QueryString,
         "headers": {
             "accept": "application/json",
-            "authorization": "Bearer YOUR ACCESS TOKEN HERE"
+            "authorization": "Bearer vzR6fNrA5y1fnyBz2dztZw=="
         }
     };
 
